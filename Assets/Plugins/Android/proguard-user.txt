@@ -1,0 +1,16 @@
+# Keep classes from com.google.unity package
+-keep class com.google.unity.** { *; }
+
+# Keep classes and public members from com.google.android.gms.ads package
+-keep public class com.google.android.gms.ads.** {
+    public *;
+}
+
+# Keep classes and public members from com.google.ads package
+-keep public class com.google.ads.** {
+    public *;
+}
+
+# Keep all annotations
+-keepattributes *Annotation*
+

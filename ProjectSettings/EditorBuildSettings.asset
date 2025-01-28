@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/ChooseMenu.unity
+    guid: 50adfb854472afd46a253cf711de5f67
+  - enabled: 1
+    path: Assets/Scenes/E.C.unity
+    guid: f1d668c195f13ca45898232fd720d7e9
+  - enabled: 1
+    path: Assets/Scenes/YouLost.unity
+    guid: 29da0541aeedd724f8d5912058b34459
+  - enabled: 1
+    path: Assets/Scenes/AF.C.unity
+    guid: 9432b7f81db4d9f43986fd7c74def6d6
+  - enabled: 1
+    path: Assets/Scenes/ResourceLVL.unity
+    guid: 7ac2072ced35ef4448556f7677182841
+  - enabled: 1
+    path: Assets/Scenes/AS.C.unity
+    guid: 0b12d63e7034a3e4ca65e408d5d85e95
+  - enabled: 1
+    path: Assets/Scenes/EasyQuiz.unity
+    guid: 62e466b3e99b2d241b8e413faff12fbc
+  - enabled: 1
+    path: Assets/Scenes/NormalQuiz.unity
+    guid: f9bd9e70697b5c245a00623de3440542
+  - enabled: 1
+    path: Assets/Scenes/HardQuiz.unity
+    guid: 9f35bd672b027f746a03a0eedd6f3049
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 5a2bbe0611eaa08428ce752459a2f085
+  - enabled: 1
+    path: Assets/Scenes/N.A.C.unity
+    guid: 2f10565929e888e449612b7ac5897d3b
+  - enabled: 1
+    path: Assets/Scenes/S.A.C.unity
+    guid: 05ad8258d87134244b47087c63f7c8ca
+  - enabled: 1
+    path: Assets/Scenes/E.C.unity
+    guid: f1d668c195f13ca45898232fd720d7e9
+  - enabled: 1
+    path: Assets/Scenes/ALL.C.unity
+    guid: 976314e3c82e4be4c844bca81add1a38
+  - enabled: 1
+    path: Assets/Scenes/GoodJob.unity
+    guid: 5bc2eb6d25ff54d4c9ddf8ef78cc0de6
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 89544f44fbda0bd488d9cfd2962f328e, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 99d5bb88a064df8419d3674eec6a2b97, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 2bbf20e74707a994eb1e1ecaac561201, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 67dd22f95f7f0ba4e821658cddf2f9b1, type: 2}
